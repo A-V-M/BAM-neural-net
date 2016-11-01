@@ -21,6 +21,6 @@ Output
 
 **x squared error**
 
-**W => Y = WX (threshold > 0 first) **
+**W => Y = WX (threshold > 0 first)**
 
-**V => X = VY (threshold > 0 first) **
+**V => X = VY (threshold > 0 first)**
