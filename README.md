@@ -9,18 +9,18 @@ Free parameters
 ---------------
 **delta**
 
-**epsilon = f(hetta)
+**epsilon = f(hetta)**
 
-**number of trials
+**number of trials**
 
-**number of iterations
+**number of iterations**
 
 Output
 ------
-**y squared error
+**y squared error**
 
-**x squared error
+**x squared error**
 
-**W => Y = WX (threshold > 0 first) 
+**W => Y = WX (threshold > 0 first) **
 
-**V => X = VY (threshold > 0 first) 
+**V => X = VY (threshold > 0 first) **
