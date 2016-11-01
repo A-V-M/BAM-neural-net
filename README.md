@@ -7,7 +7,7 @@ Based on bidirectional heteroassociative memory model by Chartier & Boukadoum, 2
 
 Free parameters
 ---------------
-**delta
+**delta**
 
 **epsilon = f(hetta)
 
