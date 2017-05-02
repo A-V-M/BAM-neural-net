@@ -3,7 +3,8 @@
 Background
 ==========
 
-Based on bidirectional heteroassociative memory model by Chartier & Boukadoum, 2006.
+Based on bidirectional heteroassociative memory model by Chartier & Boukadoum, 2006. 
+Learns a mapping function for binary-to-binary vector transformations. 
 
 Free parameters
 ---------------
